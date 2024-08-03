@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript and Python 
 - 💞️ I’m looking to collaborate on a programming project actually more of learning 
 - 📫 How to reach me ... 08165254494
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... He, Him, His
 - ⚡ Fun fact: ...
 
 <!---
